@@ -1,0 +1,33 @@
+---
+title: "NBA Scoring (2008)"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: Abderrahim Guennoune 
+    url: https://aguennoune.github.io/portfolio-metier
+    affiliation: Sportwear & Sponsoring
+    affiliation_url: https://aguennoune.github.io/hi-tech-sportwear/
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, 
+                      message = FALSE)
+library(knitr)
+
+url <- "http://datasets.flowingdata.com/ppg2008.csv"
+nba_players <- read.csv(url, row.names = 1)
+```
+
+### Top Scores {data-width=350}
+
+```{r}
+knitr::kable(nba_players[1:20, c("G", "MIN", "PTS")])
+```
+
+
+
+
+
+

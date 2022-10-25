@@ -1,0 +1,13 @@
+name: "."
+title: "Build Website in RStudio"
+description: |
+  Build Website in RStudio
+output_dir: "docs"
+theme: my-theme.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Shops Sample"
+      href: "shops-rmd.html"
+output: distill::distill_article
