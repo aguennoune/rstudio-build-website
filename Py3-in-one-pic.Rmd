@@ -1,0 +1,93 @@
+---
+title: "Py3-in-one-pic"
+description: |
+  A new article created using the Distill format.
+author:
+  - name: rainyear 
+    url: https://git.io/Coo-py3
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(warning = FALSE, 
+                      message = FALSE)
+library(knitr)
+library(png)
+
+url <- "https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png"
+```
+
+### Python3 in one pic
+
+[ Languages: [English](README.md) ]
+
+# Python3 libraries
+<link:'https://docs.python.org/3/library/stdtypes.html#str.startswith'>
+
+# Online Version
+
+[https://git.io/Coo-py3](https://git.io/Coo-py3)
+
+## Notebook
+
+[IPython Notebook Version](https://github.com/coodict/python3-in-one-pic/blob/master/notebooks/py3-in-one-pic.ipynb)
+
+## Preview
+
+![py3 in one pic](https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%20in%20one%20pic.png)
+
+## Releated projects
+
+* [Javascript in one pic](https://github.com/coodict/javascript-in-one-pic)
+* Go in one pic (in preparation)
+
+## TODO
+- [X] Use IPython notebook, it's really very cool!
+
+- [X] `import this`
+- [X] Basic Syntax
+- [X] Native Datatypes
+  - [X] Number
+  - [X] String
+  - [X] Boolean
+  - [X] None
+  - [X] Byte
+  - [X] List
+  - [X] Tuple
+  - [X] Set
+  - [X] Dict
+- [X] Operators & Casting
+- [X] Flow Control
+  - [X] `if/elif/else`
+  - [X] `for...in...`
+  - [X] `while`
+  - [X] `break` & `continue`
+  - [X] Iterators & Generators
+  - [X] Comprehensions
+- [X] Function
+  - [X] Definition
+  - [X] Arguments
+  - [X] Lambda
+  - [X] Documentation
+  - [X] @decorator
+- [X] Class(OOP)
+  - [X] `class`
+  - [X] `__init__()` & `self`
+  - [X] Instance
+  - [X] Inheritance
+  - [X] Override
+- [X] Module
+  - [X] `import`
+  - [X] Search Path
+  - [X] Package
+- [ ] Pythonic
+- [ ] Standard Libraries
+  - [ ] `os, sys`
+  - [ ] `datetime`
+
+
+
+
+
+
