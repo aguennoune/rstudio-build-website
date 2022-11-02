@@ -18,8 +18,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nPython3 in one pic\r\n[ Languages: English ]\r\nPython3 libraries\r\n<link:‘https://docs.python.org/3/library/stdtypes.html#str.startswith’>\r\nOnline Version\r\nhttps://git.io/Coo-py3\r\nNotebook\r\nIPython Notebook Version\r\nPreview\r\npy3 in one picReleated projects\r\nJavascript in one pic\r\nGo in one pic (in preparation)\r\nTODO\r\nUse IPython notebook, it’s really very cool!\r\nimport this\r\nBasic Syntax\r\nNative DatatypesNumber\r\nString\r\nBoolean\r\nNone\r\nByte\r\nList\r\nTuple\r\nSet\r\nDict\r\n\r\nOperators & Casting\r\nFlow Controlif/elif/else\r\nfor...in...\r\nwhile\r\nbreak & continue\r\nIterators & Generators\r\nComprehensions\r\n\r\nFunctionDefinition\r\nArguments\r\nLambda\r\nDocumentation\r\n@decorator\r\n\r\nClass(OOP)class\r\n__init__() & self\r\nInstance\r\nInheritance\r\nOverride\r\n\r\nModuleimport\r\nSearch Path\r\nPackage\r\n\r\nPythonic\r\nStandard Librariesos, sys\r\ndatetime\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-11-02T00:49:34+01:00"
+      "contents": "\r\nPython3 in one pic\r\n[ Languages: English ]\r\nPython3 libraries\r\nlink to Python3 libraries\r\nOnline Version\r\nhttps://git.io/Coo-py3\r\nNotebook\r\nIPython Notebook Version\r\nPreview\r\npy3 in one picReleated projects\r\nJavascript in one pic\r\nGo in one pic (in preparation)\r\nTODO\r\nUse IPython notebook, it’s really very cool!\r\nimport this\r\nBasic Syntax\r\nNative DatatypesNumber\r\nString\r\nBoolean\r\nNone\r\nByte\r\nList\r\nTuple\r\nSet\r\nDict\r\n\r\nOperators & Casting\r\nFlow Controlif/elif/else\r\nfor...in...\r\nwhile\r\nbreak & continue\r\nIterators & Generators\r\nComprehensions\r\n\r\nFunctionDefinition\r\nArguments\r\nLambda\r\nDocumentation\r\n@decorator\r\n\r\nClass(OOP)class\r\n__init__() & self\r\nInstance\r\nInheritance\r\nOverride\r\n\r\nModuleimport\r\nSearch Path\r\nPackage\r\n\r\nPythonic\r\nStandard Librariesos, sys\r\ndatetime\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-11-02T01:14:26+01:00"
     }
   ],
   "collections": []

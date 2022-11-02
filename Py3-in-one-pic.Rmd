@@ -23,7 +23,7 @@ url <- "https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%
 [ Languages: [English](README.md) ]
 
 # Python3 libraries
-<link:'https://docs.python.org/3/library/stdtypes.html#str.startswith'>
+[link to Python3 libraries](https://docs.python.org/3/library/stdtypes.html#str.startswith)
 
 # Online Version
 
