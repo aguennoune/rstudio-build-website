@@ -86,6 +86,10 @@ url <- "https://raw.githubusercontent.com/coodict/python3-in-one-pic/master/py3%
   - [ ] `os, sys`
   - [ ] `datetime`
 
+# Python3 libraries
+
+Learn more about
+[link to Python3 libraries](https://docs.python.org/3/library/stdtypes.html#str.startswith)
 
 
 

@@ -9,5 +9,5 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Py3 tree view"
-      href: "Py3-in-one-pic.html"
+      href: py3-pic-view.html
 output: distill::distill_article
