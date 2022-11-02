@@ -8,6 +8,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Py3 in one pic"
+    - text: "Py3 tree view"
       href: "Py3-in-one-pic.html"
 output: distill::distill_article
